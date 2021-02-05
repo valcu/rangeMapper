@@ -1,3 +1,0 @@
-
-This is the former verison of ranngeMapper. 
-See https://github.com/mpio-be/rangeMapper . 
